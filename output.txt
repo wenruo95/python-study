@@ -18,3 +18,19 @@ print(	math.fabs(-10))
 print(
 random.choice(li))
 
+0 first
+1 second
+2 third
+
+
+('first', 7)
+('second', 8)
+('third', 9)
+
+
+first 1
+third 3
+second 2
+first 1
+third 3
+second 2

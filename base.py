@@ -74,3 +74,22 @@ print(\nrandom.choice(li))
 '''
 
 print(str4)
+
+list = ['first', 'second', 'third']
+dict = {"first" : 1, "second" : 2, "third" : 3}
+
+for k,v in enumerate(list):
+    print(k,v)
+
+print("\n")
+for k in zip(list,[7,8,9]):
+    print(k)
+print("\n")
+
+for k,v in dict.items():
+    print(k,v)
+
+for k in dict.keys():
+    print(k,dict[k])
+
+
