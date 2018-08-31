@@ -6,3 +6,15 @@ a / b:	 0.5
 a // b:	 0
 a % b:	 1
 math.ceil(a / b):	 1
+HelloPython
+HelloHello
+e
+ell
+Hell
+True
+我叫老王, 今年38岁!
+
+print(	math.fabs(-10))
+print(
+random.choice(li))
+

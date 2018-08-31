@@ -55,5 +55,22 @@ print("a // b:\t",a // b)
 print("a % b:\t", a % b)
 print("math.ceil(a / b):\t", math.ceil(a / b))
 
+# string
+str2 = "Hello"
+str3 = "Python"
 
+print(str2 + str3)
+print(str2 * 2)
+print(str2[1])
+print(str2[1:4])
+print(str2[0:-1])
+print('H' in str2)
 
+print("我叫%s, 今年%d岁!" % ('老王', 38))
+
+str4 = '''
+print(\tmath.fabs(-10))
+print(\nrandom.choice(li))
+'''
+
+print(str4)
